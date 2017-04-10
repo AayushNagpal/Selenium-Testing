@@ -1,0 +1,4 @@
+Apr 09, 2017 11:27:54 PM com.heliumhq.api_impl.application_context.StandaloneAPIConfig initializeLogging
+INFO: Helium logging initialized.
+Apr 09, 2017 11:27:54 PM com.heliumhq.api_impl.application_context.StandaloneAPIConfig getHeliumConfigFile
+INFO: Reading Helium config from C:\Users\aayus\Downloads\helium-java-1.9.6\helium-java-1.9.6\runtime\Helium.ini
