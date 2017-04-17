@@ -1,0 +1,9 @@
+<suite name="Automation" parallel="methods" thread-count="1">
+  <test name="UNO.EDU">
+    <classes>
+      <class name="com.pack.Tests.CreateAccountTest"/>
+      <class name="com.pack.Tests.DashBoard_AcademicCalendarTest"/>
+     
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

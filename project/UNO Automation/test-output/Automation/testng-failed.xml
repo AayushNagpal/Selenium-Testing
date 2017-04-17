@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Automation]" parallel="methods">
+  <test name="UNO.EDU(failed)" parallel="methods">
+    <classes>
+      <class name="com.pack.Tests.CreateAccountTest">
+        <methods>
+          <include name="verifyCreateAccountFunctionality"/>
+          <include name="creationObjects"/>
+          <include name="tearDown"/>
+          <include name="initializeTestBaseSetup"/>
+        </methods>
+      </class> <!-- com.pack.Tests.CreateAccountTest -->
+      <class name="com.pack.Tests.DashBoard_AcademicCalendarTest">
+        <methods>
+          <include name="verificationOfNavigationTabInAcademicCalendar"/>
+          <include name="verifyClickOnDownloadPdf"/>
+        </methods>
+      </class> <!-- com.pack.Tests.DashBoard_AcademicCalendarTest -->
+    </classes>
+  </test> <!-- UNO.EDU(failed) -->
+</suite> <!-- Failed suite [Automation] -->
