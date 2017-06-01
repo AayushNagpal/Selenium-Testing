@@ -1,10 +1,10 @@
-#Comparative Study of Automation Testing Tools 
+# Comparative Study of Automation Testing Tools 
 
-###Tools in Comparison: Selenium, Cucumber, Heleium. 
+### Tools in Comparison: Selenium, Cucumber, Heleium. 
 
-###Application Under Test: WWW.UNO.EDU
+### Application Under Test: WWW.UNO.EDU
 
-##Research Methodology:
+## Research Methodology:
 
 
 1. Research and select a set of tools to be evaluated
