@@ -17,3 +17,5 @@
 6. Document time spent testing the application and record data
 7. Evaluate and interpret results and the tools
 8. Draw inferences and make recommendations
+
+[A Comparative Study of Automated Software Testing Tools.pdf](https://github.com/AayushNagpal/Selenium-Testing/files/1043362/A.Comparative.Study.of.Automated.Software.Testing.Tools.pdf)
