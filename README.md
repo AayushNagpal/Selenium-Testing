@@ -18,6 +18,8 @@
 7. Evaluate and interpret results and the tools
 8. Draw inferences and make recommendations
 
-[Aayush_Project_ppt.pptx](https://github.com/AayushNagpal/Selenium-Testing/files/1043366/Aayush_Project_ppt.pptx)
-[Aayush_Project_Report.pdf](https://github.com/AayushNagpal/Selenium-Testing/files/1043368/Aayush_Project_Report.pdf)
-[Tool Comparison Matrix.xlsx](https://github.com/AayushNagpal/Selenium-Testing/files/1043367/Tool.Comparison.Matrix.xlsx)
+# Presentation: [Aayush_Project_ppt.pptx](https://github.com/AayushNagpal/Selenium-Testing/files/1043366/Aayush_Project_ppt.pptx)
+
+# Project Report: [Aayush_Project_Report.pdf](https://github.com/AayushNagpal/Selenium-Testing/files/1043368/Aayush_Project_Report.pdf)
+
+# Tools Comparison Matrix: [Tool Comparison Matrix.xlsx](https://github.com/AayushNagpal/Selenium-Testing/files/1043367/Tool.Comparison.Matrix.xlsx)
